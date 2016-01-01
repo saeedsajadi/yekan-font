@@ -15,10 +15,10 @@
     "Yekan"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/smart-twists/yekan-font"
+  "homepage": "https://github.com/smart-twists/yekan-font",
   "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/smart-twists/yekan-font"
-  },
+  }
 }
