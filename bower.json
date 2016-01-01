@@ -10,9 +10,12 @@
     "yekan font",
     "font",
     "b yaken",
-    "yekan",
     "B Yekan",
     "Yekan"
+  ],
+  "moduleType": "globals",
+  "ignore": [
+    "/.*"
   ],
   "license": "MIT",
   "homepage": "https://github.com/smart-twists/yekan-font",
