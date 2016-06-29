@@ -1,5 +1,5 @@
 {
-  "name": "yekan_font",
+  "name": "yekan-font",
   "authors": [
     "Saeed <saeed.sajadi@gmail.com>"
   ],
@@ -19,7 +19,7 @@
   ],
   "license": "MIT",
   "homepage": "https://github.com/smart-twists/yekan-font",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/smart-twists/yekan-font"
